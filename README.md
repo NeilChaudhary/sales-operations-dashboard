@@ -83,7 +83,3 @@ sales-operations-dashboard/
 ## Author
 
 Neil Chaudhary
-
-BITS Pilani, Goa Campus
-
-Mechanical Engineering
