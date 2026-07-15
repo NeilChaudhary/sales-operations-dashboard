@@ -10,9 +10,9 @@ The objective was to clean inconsistent business data, perform exploratory analy
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard](Dashboard.png)
 
----
+
 
 ## Features
 
